@@ -7,4 +7,4 @@
 
 ***
 
-This repository contains all design resources for [Wykop Mobilny](https://github.com/feelfreelinux/WykopMobilny) made by [@feelfreelinux](https://github.com/feelfreelinux). Designs are released under MIT License.
+This repository contains all design resources for [@feelfreelinux](https://github.com/feelfreelinux)'s [Wykop Mobilny](https://github.com/feelfreelinux/WykopMobilny). Designs are released under MIT License.
